@@ -1,0 +1,28 @@
+PPR 1 :
+
+Q1 : aftre approval of our definition we are going to learn technologies which will use in our project .
+Q2 : As you know these technologies are new to us it will quite tough to understand . 
+Q3 : we need support of technical person who will teach us these technologies.
+Q4 : (Enter reference link of your project technologies ex. machinelearningmastery.com)
+
+PPR 2 :
+
+Q1 : we learn how technologies are actual work in project and also learn basic flow of our technologies.
+Q2 : Its was problematic to work with these at this initial stage.
+Q3 : We want support of that person who suffering from these scenario ..
+Q4 : (Enter reference link of your project technologies ex. machinelearningmastery.com)
+
+PPR 3 :
+
+Q1 : Based on previous work we will going to decide actual flow of our project.
+Q2 : This is our first real time project so we faced the problem while deciding flow.
+Q3 : We need help we give guidance that how to bind documentation.
+Q4 : (Enter reference link of your project technologies ex. machinelearningmastery.com)
+
+PPR 4 :
+
+Q1 : we are working on SRS of our project.
+Q2 : Faced problem when we made diagram .
+Q3 : At this stage we dont need any support .
+Q4 : (Enter reference link of your project technologies ex. machinelearningmastery.com)
+
